@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to right, #f7abab, #facbf1, #ffd2d2);
+  /* Add any additional styling you need for the body */
+}
